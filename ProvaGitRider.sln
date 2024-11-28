@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaGitRider", "ProvaGitRider.csproj", "{0EDA6D37-E5FE-4F42-A3F7-C81C77555BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EDA6D37-E5FE-4F42-A3F7-C81C77555BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EDA6D37-E5FE-4F42-A3F7-C81C77555BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EDA6D37-E5FE-4F42-A3F7-C81C77555BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EDA6D37-E5FE-4F42-A3F7-C81C77555BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
